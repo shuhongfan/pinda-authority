@@ -1,0 +1,6 @@
+# JWT相关配置
+authentication:
+  user:
+    expire: 7200
+    priKey: pri.key
+    pubKey: pub.key

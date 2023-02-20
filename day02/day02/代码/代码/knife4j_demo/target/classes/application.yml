@@ -1,0 +1,9 @@
+server:
+  port: 8080
+pinda:
+  swagger:
+    enabled: true
+    title: 测试标题
+    description: 在线文档
+    version: 0.1
+    basePackage: cn.itcast.controller

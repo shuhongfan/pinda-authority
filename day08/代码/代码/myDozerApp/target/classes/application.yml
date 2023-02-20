@@ -1,0 +1,3 @@
+dozer:
+  mapping-files:
+    - classpath:dozer/User.xml
