@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="logback_demo" />
+        <module name="argumentResolver_demo" />
+        <module name="pd-tools-databases" />
+        <module name="jwt_demo" />
+        <module name="pd-tools-j2cache" />
+        <module name="pd-gateway" />
+        <module name="knife4j_demo" />
+        <module name="pd-tools-core" />
+        <module name="myapp" />
+        <module name="pd-auth-server" />
+        <module name="pd-tools-swagger2" />
+        <module name="exceptionHandler_demo" />
+        <module name="pd-goods-server" />
+        <module name="mySwaggerApp" />
+        <module name="pd-tools-jwt" />
+        <module name="springboot_logback_demo" />
+        <module name="pd-tools-log" />
+        <module name="myJwtApp" />
+        <module name="swagger_demo" />
+        <module name="j2cache_demo" />
+        <module name="myDozerApp" />
+        <module name="pd-tools-user" />
+        <module name="myCurrentUserApp" />
+        <module name="myLogApp" />
+        <module name="pd-tools-xss" />
+        <module name="myHibernateValidatorApp" />
+        <module name="antiSamy_demo" />
+        <module name="pd-tools-validator" />
+        <module name="pd-goods-entity" />
+        <module name="pd-tools-dozer" />
+        <module name="pd-tools-common" />
+        <module name="springevent_demo" />
+        <module name="pd-auth-entity" />
+        <module name="dozer_demo" />
+        <module name="hello-spring-boot-starter" />
+        <module name="hibernate-validator_demo" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="antiSamy_demo" options="-parameters" />
+      <module name="argumentResolver_demo" options="-parameters" />
+      <module name="dozer_demo" options="-parameters" />
+      <module name="exceptionHandler_demo" options="-parameters" />
+      <module name="hello-spring-boot-starter" options="-parameters" />
+      <module name="hibernate-validator_demo" options="-parameters" />
+      <module name="j2cache_demo" options="-parameters" />
+      <module name="knife4j_demo" options="-parameters" />
+      <module name="myCurrentUserApp" options="-parameters" />
+      <module name="myDozerApp" options="-parameters" />
+      <module name="myHibernateValidatorApp" options="-parameters" />
+      <module name="myJwtApp" options="-parameters" />
+      <module name="myLogApp" options="-parameters" />
+      <module name="mySwaggerApp" options="-parameters" />
+      <module name="myapp" options="-parameters" />
+      <module name="pd-auth-entity" options="-parameters" />
+      <module name="pd-auth-server" options="-parameters" />
+      <module name="pd-gateway" options="-parameters" />
+      <module name="pd-goods-entity" options="-parameters" />
+      <module name="pd-goods-server" options="-parameters" />
+      <module name="pd-tools-common" options="-parameters" />
+      <module name="pd-tools-core" options="-parameters" />
+      <module name="pd-tools-databases" options="-parameters" />
+      <module name="pd-tools-dozer" options="-parameters" />
+      <module name="pd-tools-j2cache" options="-parameters" />
+      <module name="pd-tools-jwt" options="-parameters" />
+      <module name="pd-tools-log" options="-parameters" />
+      <module name="pd-tools-swagger2" options="-parameters" />
+      <module name="pd-tools-user" options="-parameters" />
+      <module name="pd-tools-validator" options="-parameters" />
+      <module name="pd-tools-xss" options="-parameters" />
+      <module name="springboot_logback_demo" options="-parameters" />
+      <module name="springevent_demo" options="-parameters" />
+      <module name="swagger_demo" options="-parameters" />
+    </option>
+  </component>
+</project>

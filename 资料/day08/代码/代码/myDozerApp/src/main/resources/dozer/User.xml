@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mappings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dozermapper.github.io/schema/bean-mapping"
+          xsi:schemaLocation="http://dozermapper.github.io/schema/bean-mapping
+                             http://dozermapper.github.io/schema/bean-mapping.xsd">
+    <!--描述两个类中属性的对应关系，对于两个类中同名的属性可以不映射-->
+    <mapping>
+        <class-a>com.itheima.entity.UserEntity</class-a>
+        <class-b>com.itheima.dto.UserDTO</class-b>
+        <field>
+            <a>address</a>
+            <b>addr</b>
+        </field>
+    </mapping>
+</mappings>

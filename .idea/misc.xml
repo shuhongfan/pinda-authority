@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/antiSamy_demo/pom.xml" />
+        <option value="$PROJECT_DIR$/argumentResolver_demo/pom.xml" />
+        <option value="$PROJECT_DIR$/dozer_demo/pom.xml" />
+        <option value="$PROJECT_DIR$/exceptionHandler_demo/pom.xml" />
+        <option value="$PROJECT_DIR$/hibernatevalidator_demo/pom.xml" />
+        <option value="$PROJECT_DIR$/j2cache_demo/pom.xml" />
+        <option value="$PROJECT_DIR$/jwt_demo/pom.xml" />
+        <option value="$PROJECT_DIR$/knife4j_demo/pom.xml" />
+        <option value="$PROJECT_DIR$/logback_demo/pom.xml" />
+        <option value="$PROJECT_DIR$/pinda-authority/pom.xml" />
+        <option value="$PROJECT_DIR$/myCurrentUserApp/pom.xml" />
+        <option value="$PROJECT_DIR$/myDozerApp/pom.xml" />
+        <option value="$PROJECT_DIR$/myHibernateValidatorApp/pom.xml" />
+        <option value="$PROJECT_DIR$/myJwtApp/pom.xml" />
+        <option value="$PROJECT_DIR$/myLogApp/pom.xml" />
+        <option value="$PROJECT_DIR$/mySwaggerApp/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_logback_demo/pom.xml" />
+        <option value="$PROJECT_DIR$/springevent_demo/pom.xml" />
+        <option value="$PROJECT_DIR$/swagger_demo/pom.xml" />
+        <option value="$PROJECT_DIR$/hello-spring-boot-starter/pom.xml" />
+        <option value="$PROJECT_DIR$/myapp/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>

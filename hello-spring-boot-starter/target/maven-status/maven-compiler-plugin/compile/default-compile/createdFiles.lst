@@ -1,0 +1,7 @@
+com\shf\config\HelloProperties.class
+com\shf\log\MyLog.class
+com\shf\log\MyLogInterceptor.class
+com\shf\service\HelloService.class
+com\shf\config\HelloServiceAutoConfiguration.class
+com\shf\config\MyLogAutoConfiguration.class
+META-INF\spring-configuration-metadata.json

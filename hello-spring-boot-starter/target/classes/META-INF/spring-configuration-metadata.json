@@ -1,0 +1,22 @@
+{
+  "groups": [
+    {
+      "name": "shf",
+      "type": "com.shf.config.HelloProperties",
+      "sourceType": "com.shf.config.HelloProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "shf.address",
+      "type": "java.lang.String",
+      "sourceType": "com.shf.config.HelloProperties"
+    },
+    {
+      "name": "shf.name",
+      "type": "java.lang.String",
+      "sourceType": "com.shf.config.HelloProperties"
+    }
+  ],
+  "hints": []
+}
